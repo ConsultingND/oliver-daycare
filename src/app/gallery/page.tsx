@@ -116,7 +116,7 @@ export default function GalleryPage() {
       </section>
 
       {/* Instagram Feed */}
-      <InstagramFeed />
+      {/* <InstagramFeed /> */}
 
       {/* CTA */}
       <CTASection

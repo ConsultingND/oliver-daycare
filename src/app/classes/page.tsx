@@ -187,7 +187,7 @@ export default function ClassesPage() {
                   </CardContent>
                 </Card>
               </AnimatedSection>
-            ))}
+            )})}
           </div>
         </div>
       </section>
