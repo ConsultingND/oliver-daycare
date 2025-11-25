@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 import AnimatedSection from '@/components/shared/AnimatedSection'
 import CTASection from '@/components/shared/CTASection'
-import InstagramFeed from '@/components/shared/InstagramFeed'
+// import InstagramFeed from '@/components/shared/InstagramFeed'
 
 export default function GalleryPage() {
   const [selectedCategory, setSelectedCategory] = useState('All')
