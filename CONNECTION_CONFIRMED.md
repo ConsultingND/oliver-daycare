@@ -150,3 +150,5 @@ Your project is now ready to deploy to Vercel with a working enrollment system!
 
 **You're almost there!** Just run the migration and you're fully operational! 🚀
 
+
+

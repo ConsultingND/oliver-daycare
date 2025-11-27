@@ -211,3 +211,5 @@ For Next.js/React development:
 
 **Done!** Your Cursor IDE is now configured for optimal development. 🎉
 
+
+

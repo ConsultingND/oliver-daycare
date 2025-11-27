@@ -101,3 +101,5 @@ COMMENT ON TABLE enrollment_applications IS 'Stores enrollment applications subm
 COMMENT ON COLUMN enrollment_applications.status IS 'Application status: pending, reviewed, approved, rejected, enrolled';
 COMMENT ON COLUMN enrollment_applications.tour_scheduled IS 'Whether parent requested a facility tour';
 
+
+
